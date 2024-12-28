@@ -10,7 +10,7 @@ dependencies:
   equatable: ^2.0.5
   flutter:
     sdk: flutter
-  flutter_hooks: ^0.18.6
+  flutter_hooks: ^0.20.3
   tuple: ^2.0.1
 
 dev_dependencies:
